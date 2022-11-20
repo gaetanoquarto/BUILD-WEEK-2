@@ -1,0 +1,176 @@
+{
+  "utenti": [
+    {
+      "emailRegister": "admin@admin.com",
+      "passwordRegister": "admin",
+      "nomeRegister": "admin",
+      "cognomeRegister": "admin",
+      "id": 1
+    },
+    {
+      "emailRegister": "pasqualecapuano91@gmail.com",
+      "passwordRegister": "ciao",
+      "nomeRegister": "Pasquale",
+      "cognomeRegister": "Capuano",
+      "id": 2
+    },
+    {
+      "nomeRegister": "Gaetano",
+      "cognomeRegister": "Quarto",
+      "emailRegister": "gaetano@gmail.com",
+      "passwordRegister": "ciao",
+      "id": 3
+    },
+    {
+      "emailRegister": "gaetano.97@live.it",
+      "passwordRegister": "gaetano1997",
+      "nomeRegister": "Gaetano",
+      "cognomeRegister": "Quarto",
+      "id": 4
+    }
+  ],
+  "articoli": [
+    {
+      "nomeArticolo": "Yoga Mat",
+      "descrizioneArticolo": "Ideal for yoga, Pilates and floor exercises, the textured surface provides reliable traction for movement and poses. Multiple colors available.\n",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/4.png",
+      "categoriaArticolo": "Accessori",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "Nero",
+      "tipoArticolo": "Tappetino",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "24.99",
+      "id": 1
+    },
+    {
+      "nomeArticolo": "Gym Gloves",
+      "descrizioneArticolo": "Innovative Palm Design Maximizes Your Grip: We researched how hundreds of people use workout gloves to enhance our ergonomic design, leverage the muscle direction and placement and optimize grip functionality all to bring you a better glove. The result protects your hands from calluses, reduces friction discomfort all while still maintaining a strong grip on what you are holding onto.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/2.png",
+      "categoriaArticolo": "Accessori",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "Nero",
+      "tipoArticolo": "Guanti",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "12.00",
+      "id": 2
+    },
+    {
+      "nomeArticolo": "Gym Bag",
+      "descrizioneArticolo": "The perfect size bag for a quick trip to the gym or practice with a zippered main compartment that opens wide for easy packing. The shoulder strap is adjustable so you can wear it at the length you like and the haul handle is padded for comfort. Lifetime warranty - built to last.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/3.png",
+      "categoriaArticolo": "Accessori",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "Nero",
+      "tipoArticolo": "Zaino",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "39.90",
+      "id": 3
+    },
+    {
+      "nomeArticolo": "Water bottle 1L",
+      "descrizioneArticolo": "Large Capacity Water bottle. This sturdy big water bottle holds 1 gallon of water to meet the a whole-day water intake and fitness hydration needs of 2 adults and ensures you enjoy one water jug without having to refill it frequently especially when you’re working in office or training hard outdoors & indoors. The ergonomic handle built-in allows for easy water transportation, perfect for carrying out to do outdoor practice and activities on hot summer days.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/1.png",
+      "categoriaArticolo": "Accessori",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "Nero",
+      "tipoArticolo": "Borraccia",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "19.99",
+      "id": 4
+    },
+    {
+      "nomeArticolo": "T-shirt",
+      "descrizioneArticolo": "This men's muscle tshirts fits well, not too loose or too tight. The classic round neck sleeveless tank tops can highlight your shoulder and arm muscles, ensure easy movement. Neat stitches and professional cut can show your muscle lines and figure. The sporty fit design provides you great freedom and comfort during exercise.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/6.png",
+      "categoriaArticolo": "Abbigliamento",
+      "tagliaArticolo": "L",
+      "coloreArticolo": "Nero",
+      "tipoArticolo": "T-shirt",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "18.50",
+      "id": 5
+    },
+    {
+      "nomeArticolo": "Full pack",
+      "descrizioneArticolo": "The perfect starter pack with all our products!",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/10.png",
+      "categoriaArticolo": "Accessori",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "-",
+      "tipoArticolo": "-",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "70.00",
+      "id": 6
+    },
+    {
+      "nomeArticolo": "Monthly fee",
+      "descrizioneArticolo": "30 days access to our gym.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/7.png",
+      "categoriaArticolo": "Servizi",
+      "tagliaArticolo": "",
+      "coloreArticolo": "",
+      "tipoArticolo": "",
+      "gustoArticolo": "",
+      "prezzoArticolo": "70.00",
+      "id": 7
+    },
+    {
+      "nomeArticolo": "Yearly fee",
+      "descrizioneArticolo": "365 days access to our gym.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/8.png",
+      "categoriaArticolo": "Servizi",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "-",
+      "tipoArticolo": "-",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "750.00",
+      "id": 8
+    },
+    {
+      "nomeArticolo": "Yoga class - monthly",
+      "descrizioneArticolo": "We offer an array of different retreats for anyone's budget. Are you looking for a place to get away from it all? Detox, decompress, and rebirth? Meditation Retreats. Spiritual Getaways. Silent Retreats.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/9.png",
+      "categoriaArticolo": "Servizi",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "-",
+      "tipoArticolo": "-",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "55.00",
+      "id": 9
+    },
+    {
+      "nomeArticolo": "Spinning class - Monthly",
+      "descrizioneArticolo": "Try to be one of the early birds that gets to class with enough time to get good positioning. You don’t need to be center front row or anything, just make sure you can see your instructor to a) better mimic their form/movements and b) to really be able to hear/mouth-read their instructions clearly.",
+      "immagineArticolo": "http://elife.altervista.org/bw2Img/5.png",
+      "categoriaArticolo": "Servizi",
+      "tagliaArticolo": "-",
+      "coloreArticolo": "-",
+      "tipoArticolo": "-",
+      "gustoArticolo": "-",
+      "prezzoArticolo": "49.00",
+      "id": 10
+    }
+  ],
+  "carrello": [
+    {
+      "prodotti": [],
+      "idUtente": 1,
+      "id": 1
+    },
+    {
+      "prodotti": [],
+      "idUtente": 3,
+      "id": 3
+    },
+    {
+      "prodotti": [],
+      "idUtente": 4,
+      "id": 4
+    },
+    {
+      "prodotti": [],
+      "idUtente": 2,
+      "id": 5
+    }
+  ]
+}
